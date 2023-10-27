@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answers": ["Paris", "London", "Berlin", "Madrid"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Who is CEO of Tesla?",
+      "answers": ["Jeff Bezos", "Elon Musk", "Bill Gates", "Tony Stark"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The iPhone was created by which company?",
+      "answers": ["Apple", "Intel", "Amazon", "Microsoft"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "How many Harry Potter books are there?",
+      "answers": ["1", "4", "6", "7"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "How many days are in a year?",
+      "answers": ["365", "365.25", "366", "364"],
+      "correctAnswer": 0
+    }
+  ]
+}
